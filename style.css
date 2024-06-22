@@ -110,3 +110,7 @@
 #check:checked ~ .sidebar_menu .btn_two i{
     opacity: 1;
 }
+.p1{
+    color: rgb(190, 8, 240);
+
+}
